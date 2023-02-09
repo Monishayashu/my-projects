@@ -1,1 +1,0 @@
-print('jo oru loosu')
